@@ -1,0 +1,19 @@
+{
+  "name": "cod-squad-bot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot to create and manage private voice channels for squading up in various Call of Duty game modes.",
+  "keywords": [
+    "call-of-duty",
+    "cod",
+    "modern-warfare-ii",
+    "mwii",
+    "dmz",
+    "warzone-2.0",
+  ],
+  "author": "William L. Holt <beskar.labs@outlook.com>",
+  "license": "ISC",
+  "contributors": [
+    "ALCHElVlY",
+    "dependabot[bot]"
+  ]
+}
