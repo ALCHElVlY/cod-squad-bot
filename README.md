@@ -17,8 +17,6 @@
   <!-- <h3 align="center">[COD]Squad Bot</h3> -->
 
   <p align="center">
-    A Discord bot to create and manage Call of Duty squad channels. Whether solo, or in quads, Squad Bot can help you manage private squad channels in your Discord server! 
-    <br />
     <a href="https://github.com/ALCHElVlY/cod-squad-bot/issues">Report Bug</a>
     ·
     <a href="https://github.com/ALCHElVlY/cod-squad-bot/issues">Request Feature</a>
@@ -52,6 +50,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
+A Discord bot to create and manage Call of Duty squad channels. Whether solo, or in quads, Squad Bot can help you manage private squad channels in your Discord server! 
 This project was designed to help players form squads and create private voice channels in any given Discord server. If squad fill is not for you, and you would rather team up with those you know from Discord, give Squad Bot a try!
 
 
