@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://github.com/ALCHElVlY/cod-squad-bot-source/blob/main/src/assets/images/cod-squad-bot-pfp-defaut.jpg"
+    <img src="https://github.com/ALCHElVlY/cod-squad-bot-source/blob/main/assets/images/cod-squad-bot-pfp-defaut.jpg"
          alt="Logo" width="400" height="140">
   </a>
 
