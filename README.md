@@ -10,8 +10,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/images/HLNA GitHub2.png" alt="Logo" width="800" height="350">
+  <a href="#">
+    <img src="https://github.com/ALCHElVlY/cod-squad-bot-source/blob/main/src/assets/images/cod-squad-bot-pfp-defaut.jpg"
+         alt="Logo" width="400" height="140">
   </a>
 
   <!-- <h3 align="center">[COD]Squad Bot</h3> -->
