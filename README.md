@@ -11,8 +11,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://github.com/ALCHElVlY/cod-squad-bot-source/blob/main/assets/images/cod-squad-bot-pfp-defaut.jpg"
-         alt="Logo" width="400" height="140">
+    <img src="https://imgur.com/DFOtb1J.jpg" alt="Logo" width="400" style="border-radius: 50%;">
   </a>
 
   <!-- <h3 align="center">[COD]Squad Bot</h3> -->
