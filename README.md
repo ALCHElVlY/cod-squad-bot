@@ -58,7 +58,7 @@ This project was designed to help players form squads and create private voice c
 
 ## Built With
 
-Here are any frameworks/libraries used in HLN-A's development.
+Here are any frameworks/libraries used in Squad Bot's development.
 * [MongoDB](#)
 * [Express.js](#)
 * [Node.JS](https://nodejs.org/en/)
