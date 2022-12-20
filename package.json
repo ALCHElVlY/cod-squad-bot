@@ -4,7 +4,6 @@
   "description": "Simple Discord bot to create and manage private voice channels for squading up in various Call of Duty game modes.",
   "keywords": [
     "call-of-duty",
-    "cod",
   ],
   "author": "William L. Holt <beskar.labs@outlook.com>",
   "license": "ISC",
