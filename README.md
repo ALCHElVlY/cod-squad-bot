@@ -106,7 +106,7 @@ Twitter: n/a
 [readme-shield]: https://img.shields.io/badge/readme%20style-standard-blue.svg?style=for-the-badge
 [readme-url]: https://github.com/ALCHElVlY/cod-squad-bot#readme
 [version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/cod-squad-bot?label=version&style=for-the-badge
-[version-url]: https://github.com/ALCHElVlY/cod-squad-bot/version
+[version-url]: https://github.com/ALCHElVlY/cod-squad-bot/releases
 [issues-shield]: https://img.shields.io/github/issues/ALCHElVlY/cod-squad-bot?color=blue&style=for-the-badge
 [issues-url]: https://github.com/ALCHElVlY/cod-squad-bot/issues
 [contributors-shield]: https://img.shields.io/github/contributors/ALCHElVlY/cod-squad-bot?color=blue&style=for-the-badge
