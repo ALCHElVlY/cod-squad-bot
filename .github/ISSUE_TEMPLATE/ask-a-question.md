@@ -1,6 +1,6 @@
 ---
 name: Ask A Question
-about: Ask general questions regarding Squad Bot
+about: Ask general questions about this project
 title: ''
 labels: question
 assignees: ALCHElVlY
