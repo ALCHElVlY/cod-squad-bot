@@ -3,7 +3,17 @@
   "version": "1.0.0",
   "description": "Simple Discord bot to create and manage private voice channels for squading up in various Call of Duty game modes.",
   "keywords": [
-    "call-of-duty",
+    "d2r-market",
+    "diablo2-market",
+    "diablo2-market",
+    "diabloii-market",
+    "diablo-market",
+    "d2r-rushes",
+    "rushes",
+    "cows",
+    "ubers",
+    "trades",
+    "trading"
   ],
   "author": "William L. Holt <beskar.labs@outlook.com>",
   "license": "ISC",
