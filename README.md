@@ -68,7 +68,7 @@ Here are any frameworks/libraries used in Squad Bot's development.
 <!-- Documentation -->
 ## Docs
 
-<insert documentation>
+coming soon...
 
 
 
@@ -77,28 +77,6 @@ Here are any frameworks/libraries used in Squad Bot's development.
 
 See the [open issues](https://github.com/ALCHElVlY/cod-squad-bot/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/cod-squad-bot/projects/1) for a list of planned updates.
 
-
-
-<!-- LICENSE -->
-## License
-
-No license, this is a private project. Currently not open source.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Email: beskar.labs@outlook.com<br>
-Website: www.beskarlabs.com<br>
-Facebook: n/a<br>
-Twitter: n/a
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## ACKNOWLEDGEMENTS
-
-<insert achknowledgements>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
