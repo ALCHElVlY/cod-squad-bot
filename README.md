@@ -37,9 +37,6 @@
     </li>
     <li><a href="#docs">Documentation</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -75,12 +72,11 @@ coming soon...
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/ALCHElVlY/cod-squad-bot/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/cod-squad-bot/projects/1) for a list of planned updates.
+See the [open issues](https://github.com/ALCHElVlY/cod-squad-bot/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/cod-squad-bot/projects/1) for a list of planned updates, and their status.
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [readme-shield]: https://img.shields.io/badge/readme%20style-standard-blue.svg?style=for-the-badge
 [readme-url]: https://github.com/ALCHElVlY/cod-squad-bot#readme
 [version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/cod-squad-bot?label=version&style=for-the-badge
