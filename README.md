@@ -39,8 +39,8 @@ This project was designed to help players form squads and create private voice c
 ## Built With
 
 Here are any frameworks/libraries used in Squad Bot's development.
-* [MongoDB](#)
-* [Express.js](#)
+* [MongoDB](https://www.mongodb.com/home)
+* [Express.js](https://expressjs.com/)
 * [Node.JS](https://nodejs.org/en/)
 * [Discord.JS](https://discord.js.org/#/)
 
