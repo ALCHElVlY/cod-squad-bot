@@ -47,7 +47,7 @@ Here are any frameworks/libraries used in Squad Bot's development.
 
 
 <!-- Documentation -->
-## Docs
+## Documentation
 
 coming soon...
 
