@@ -3,6 +3,7 @@
 [![][version-shield]][version-url]
 ![][contributors-shield]
 [![][issues-shield]][issues-url]
+![][lisence-shield]
 ![][keywords-shield]
 
 
@@ -68,4 +69,5 @@ See the [open issues](https://github.com/ALCHElVlY/cod-squad-bot/issues) for a l
 [issues-shield]: https://img.shields.io/github/issues/ALCHElVlY/cod-squad-bot?color=blue&style=for-the-badge
 [issues-url]: https://github.com/ALCHElVlY/cod-squad-bot/issues
 [contributors-shield]: https://img.shields.io/github/contributors/ALCHElVlY/cod-squad-bot?color=blue&style=for-the-badge
+[lisence-shield]: https://img.shields.io/github/package-json/license/ALCHElVlY/cod-squad-bot?style=for-the-badge
 [keywords-shield]: https://img.shields.io/github/package-json/keywords/ALCHElVlY/cod-squad-bot?color=blue&style=for-the-badge
