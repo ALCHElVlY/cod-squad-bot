@@ -45,7 +45,7 @@ Key features include:
 
 Here are any frameworks/libraries used in Squad Bot's development.
 * [MongoDB](https://www.mongodb.com/home)
-* [Express.js](https://expressjs.com/)
+* [Express.JS](https://expressjs.com/)
 * [Node.JS](https://nodejs.org/en/)
 * [Discord.JS](https://discord.js.org/#/)
 
