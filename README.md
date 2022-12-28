@@ -61,7 +61,7 @@ coming soon...
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/ALCHElVlY/cod-squad-bot/issues) for a list of known issues, and [project board](https://github.com/users/ALCHElVlY/projects/5) for a list of planned updates, and their status.
+See the [open issues](https://github.com/ALCHElVlY/cod-squad-bot/issues) for a list of known issues, and <a href="https://github.com/users/ALCHElVlY/projects/5" target="_blank">project board</a> for a list of planned updates, and their status.
 
 
 
