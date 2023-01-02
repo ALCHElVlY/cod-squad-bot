@@ -23,7 +23,7 @@
     <a href="https://github.com/ALCHElVlY/cod-squad-bot/issues">Request Feature</a>
     ·
     <!-- <a href="https://discord.com/api/oauth2/authorize?client_id=1049822652166049822&permissions=1099799989264&scope=bot">Invite to Discord!</a> -->
-    <a href="#">Invite to Discord!</a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=1049822652166049822&permissions=1099799989264&scope=bot">Invite to Discord!</a>
   </p>
 </p>
 
