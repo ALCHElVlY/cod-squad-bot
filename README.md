@@ -30,39 +30,53 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<div>
+  <h2>About The Project</h2>
+  <p>
+    A Discord bot to create and manage Call of Duty squad channels. Whether solo, or in quads, Squad Bot can help you manage private squad channels in your Discord server! 
+    If squad fill is not for you, and you would rather team up with those you know from Discord, whether in a private server shared with just friends, or an entire Call of Duty community server, Squad Bot can help you quickly form the right squad!
+    Key features include:
+    <ul>
+      <li>Quick and easy squad channel creation</li>
+      <li>Priority speaker for squad leader</li>
+      <li>AutoScrub for cleaning up empty squad channels (keeps your Discord nice and tidy)</li>
+    </ul>
+  </p>
+</div>
 
-A Discord bot to create and manage Call of Duty squad channels. Whether solo, or in quads, Squad Bot can help you manage private squad channels in your Discord server! 
-If squad fill is not for you, and you would rather team up with those you know from Discord, whether in a private server shared with just friends, or an entire Call of Duty community server, Squad Bot can help you quickly form the right squad!
-Key features include:
-  * Quick and easy squad channel creation
-  * Priority speaker for squad leader
-  * AutoScrub for cleaning up empty squad channels (keeps your Discord nice and tidy)
 
 
-
-## Built With
-
-Here are any frameworks/libraries used in Squad Bot's development.
-* [MongoDB](https://www.mongodb.com/home)
-* [Express.JS](https://expressjs.com/)
-* [Node.JS](https://nodejs.org/en/)
-* [Discord.JS](https://discord.js.org/#/)
+<div>
+  <h2>Built With</h2>
+  <p>
+    The following technologies were used in Squad Bot's development.
+    <ul>
+      <li><a href="https://www.mongodb.com/home" target="_blank">MongoDB</a></li>
+      <li><a href="https://expressjs.com/" target="_blank">Express.JS</a></li>
+      <li><a href="https://nodejs.org/en/" target="_blank">Node.JS</a></li>
+      <li><a href="https://discord.js.org/#/" target="_blank">Discord.JS</a></li>
+    </ul>
+  </p>
+</div>
 
 
 
 <!-- Documentation -->
-## Documentation
-
-coming soon...
+<div>
+  <h2>Documentation</h2>
+  <p>coming soon...</p>
+</div>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/ALCHElVlY/cod-squad-bot/issues) for a list of known issues, and <a href="https://github.com/users/ALCHElVlY/projects/5" target="_blank">project board</a> for a list of planned updates, and their status.
-
+<div>
+  <h2>Roadmap</h2>
+  <p>
+    See the <a href="https://github.com/ALCHElVlY/cod-squad-bot/issues" target="_blank">open issues</a> for a list of known issues,
+    and <a href="https://github.com/users/ALCHElVlY/projects/5" target="_blank">project board</a> for a list of planned updates, and their status.
+  </p>
+</div>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
