@@ -64,7 +64,23 @@
 <!-- Documentation -->
 <div>
   <h2>Documentation</h2>
-  <p>coming soon...</p>
+  <p>
+    When you invite Squad Bot to your Discord, it automatically creates an automod rule for your server.
+    This rule is used by the bot to monitor squad objectives when users attempt to create new squads.
+    You cannot remove this rule, but you can add words or keyphrases to the rule in order to increase the security measure.
+  </p>
+  <img src="https://i.imgur.com/QvxxKfd.png" alt="Automod Rule" width="650">
+
+  <br/>
+  <p><code>*Squad Bot performs better when given a role with administrator permissions.</code></p>
+
+  <h3><u>Setting Up Squad Categories</u></h3>
+  <p>
+    Squad Bot requires a category channel to be created for each game mode you wish to use it for.
+    This category will be used to order squad channels according to Call of Duty game modes.
+    To create a category for Squad Bot, use the settings command to update <code>squad categories</code>
+    <img src="https://i.imgur.com/Q6snV8u.gif" alt="Squad Bot Tutorial - Adding Squad Categories" width="650">
+  </p>
 </div>
 
 
