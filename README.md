@@ -83,7 +83,7 @@
   <img src="https://i.imgur.com/Q6snV8u.gif" alt="Squad Bot Tutorial - Adding Squad Categories" width="650">
   
   <br/>
-  <p><code>*Admin & Mod role settings are intended for future use, and are not utilized in the bots current configuration.</code></p>
+  <p><code>*Only the squad categories setting is used in the bots current configuration.</code></p>
 </div>
 
 
