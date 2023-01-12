@@ -45,23 +45,23 @@
 </div>
 
 
-
+<!-- BUILT WITH -->
 <div>
   <h2>Built With</h2>
   <p>
     The following technologies were used in Squad Bot's development.
     <ul>
       <li><a href="https://www.mongodb.com/home" target="_blank">MongoDB</a></li>
-      <li><a href="https://expressjs.com/" target="_blank">Express.JS</a></li>
-      <li><a href="https://nodejs.org/en/" target="_blank">Node.JS</a></li>
-      <li><a href="https://discord.js.org/#/" target="_blank">Discord.JS</a></li>
+      <li><a href="https://expressjs.com/" target="_blank">ExpressJS</a></li>
+      <li><a href="https://nodejs.org/en/" target="_blank">NodeJS</a></li>
+      <li><a href="https://discord.js.org/#/" target="_blank">DiscordJS</a></li>
     </ul>
   </p>
 </div>
 
 
 
-<!-- Documentation -->
+<!-- DOCUMENTATION -->
 <div>
   <h2>Documentation</h2>
   <p>
@@ -79,8 +79,11 @@
     Squad Bot requires a category channel to be created for each game mode you wish to use it for.
     This category will be used to order squad channels according to Call of Duty game modes.
     To create a category for Squad Bot, use the settings command to update <code>squad categories</code>
-    <img src="https://i.imgur.com/Q6snV8u.gif" alt="Squad Bot Tutorial - Adding Squad Categories" width="650">
   </p>
+  <img src="https://i.imgur.com/Q6snV8u.gif" alt="Squad Bot Tutorial - Adding Squad Categories" width="650">
+  
+  <br/>
+  <p><code>*Admin & Mod role settings are intended for future use, and are not utilized in the bots current configuration.</code></p>
 </div>
 
 
