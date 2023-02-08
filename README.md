@@ -40,6 +40,7 @@
       <li>Quick and easy squad channel creation</li>
       <li>Priority speaker for squad leader</li>
       <li>AutoScrub for cleaning up empty squad channels (keeps your Discord nice and tidy)</li>
+      <li>Customizable AutoMod rule for monitoring squad channel objectives (prevents profanity, etc.)</li>
     </ul>
   </p>
 </div>
