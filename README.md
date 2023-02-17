@@ -65,37 +65,8 @@
 <!-- DOCUMENTATION -->
 <div>
   <h2>Documentation</h2>
-  <p>
-    When you invite Squad Bot to your Discord, it automatically creates an automod rule for your server.
-    This rule is used by the bot to monitor squad objectives when users attempt to create new squads.
-    You cannot remove this rule, but you can add words or keyphrases to the rule in order to increase the security measure.
-  </p>
-  <br>
-  <img src="https://i.imgur.com/QvxxKfd.png" alt="Automod Rule" width="650">
-  <br>
-  
-  <br>
-  <p>
-    By default commands are disabled for everyone, and with Discord's latest update (at the time of writing these docs), server owners
-    now have more power and control over who gets to use a bot's commands. As a Discord Server owner, you will need to setup some
-    overrides for any command you wish to be usable by those in your server. The best way to handle this is to create or assign a valid
-    role with override persmissions to a particular slash command as shown in the example below.
-  </p>
-  <img src="https://i.imgur.com/1xJLlWV.png" alt="Slash Command Permissions Example" width="650">
-
-  <br>
-  <p><code>*Squad Bot performs better when given a role with administrator permissions.</code></p>
-
-  <h3><u>Setting Up Squad Categories</u></h3>
-  <p>
-    Squad Bot requires a category channel to be created for each game mode you wish to use it for.
-    This category will be used to order squad channels according to Call of Duty game modes.
-    To create a category for Squad Bot, use the settings command to update <code>squad categories</code>
-  </p>
-  <img src="https://i.imgur.com/Q6snV8u.gif" alt="Squad Bot Tutorial - Adding Squad Categories" width="650">
-  
-  <br>
-  <p><code>*Only the squad categories setting is used in the bots current configuration.</code></p>
+  Having issues getting Squad Bot to work in your Discord? Check out the 
+  <a href="https://alchelvly.gitbook.io/squad-bot-documentation/" target="_blank">documentation.</a>
 </div>
 
 
